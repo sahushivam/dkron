@@ -16,7 +16,7 @@ public class Scheduler {
      *
      * sample arguments
      * args[0] = "http://host.docker.internal:8050/v1/metadata/objects/scheduler/callback"
-     * args[1] = "TACT_TEST_TOKEN"
+     * args[1] = "token"
      * args[2] =
      */
     public static void jobScheduler(String args[]) throws IOException
